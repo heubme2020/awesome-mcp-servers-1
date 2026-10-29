@@ -291,6 +291,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[AnyCrawl](https://github.com/any4ai/anycrawl-mcp-server)** - [AnyCrawl](https://anycrawl.dev) MCP Server, Powerful web scraping and crawling for Cursor, Claude, and other LLM clients via the Model Context Protocol (MCP).
 
 ## Community Servers
+- **[DataSinking](https://github.com/heubme2020/datasinking)** - Full-text financial reports (annual/semi-annual/quarterly) from US/China/Japan/Korea/Taiwan/UK as clean Markdown, queryable by FMP-style symbol and section.
 
 A growing set of community-developed and maintained servers demonstrates various applications of MCP across different domains.
 
